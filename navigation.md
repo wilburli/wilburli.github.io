@@ -25,6 +25,12 @@
   * #  python
   * [SubMenu Item 3](subitem3.md)
   
-[我的博客](http://www.windblue.space:8888/)
- 
+[我的博客]()
+
+  * # oschina
+  * [oschina博客](https://my.oschina.net/u/226871/blog)
+  - - - -
+  * #  私人博客
+  * [solo博客](http://www.windblue.space:8888/)
+
 [gimmick:themechooser](切换主题)
