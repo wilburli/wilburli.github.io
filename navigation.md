@@ -1,19 +1,24 @@
-# Brand name
+# 我的导航
 
-[Menu Item 1]()
+[服务器相关]()
 
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](subitem1.md)
+  * #  nginx
+  * [nginx发布wiki](nginx.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
-  * # SubMenu Heading 2
+  * # tomcat
   * [SubMenu Item 3](subitem3.md)
   - - - -
-  * # SubMenu Heading 3
+  * # jetty
   * [SubMenu Item 3](subitem3.md)
 
-[Menu Item 2](item2.md)
+[编码相关]()
+  * #  java
+  - - - -
+  * #  python
 - - - -
-[Menu Item 3](item3.md)
-
-[gimmick:themechooser](����)
+[文档相关]()
+  * #  python
+[我的博客](http://www.windblue.space:8888/)
+ 
+[gimmick:themechooser](切换主题)
